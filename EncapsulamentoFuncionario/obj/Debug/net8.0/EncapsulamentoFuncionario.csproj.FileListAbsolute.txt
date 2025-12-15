@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\bin\Debug\net8.0\EncapsulamentoFuncionario.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.sourcelink.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\refint\EncapsulamentoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\EncapsulamentoFuncionario\obj\Debug\net8.0\ref\EncapsulamentoFuncionario.dll
