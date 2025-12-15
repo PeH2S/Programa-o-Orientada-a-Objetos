@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\bin\Debug\net8.0\Classe.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\bin\Debug\net8.0\Classe.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\bin\Debug\net8.0\Classe.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\bin\Debug\net8.0\Classe.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\bin\Debug\net8.0\Classe.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.sourcelink.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\refint\Classe.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\Classe.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\Classe\obj\Debug\net8.0\ref\Classe.dll

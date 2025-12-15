@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.sourcelink.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\bin\Debug\net8.0\ComposicaoNotaFiscal.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\refint\ComposicaoNotaFiscal.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ComposicaoNotaFiscal.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\ComposicaoNotaFiscal\obj\Debug\net8.0\ref\ComposicaoNotaFiscal.dll
