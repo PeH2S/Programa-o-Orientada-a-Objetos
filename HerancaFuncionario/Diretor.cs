@@ -13,6 +13,5 @@ namespace HerancaFuncionario
         {           //Retorno de 10% + 1000
             return base.CalcularBonificacao() + 1000;
         }
-        
     }
 }

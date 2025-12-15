@@ -10,19 +10,12 @@ namespace HerancaFuncionario
         public int Codigo { get; set; }
         public string Nome { get; set; }
         public double Salario { get; set; }
-        public double TotaldeBonificacao { get; private set; }
-        
 
-        public Funcionario()
-        {
-
-        }
         public Funcionario(int codigo, string nome, double salario)
         {
             Codigo = codigo;
             Nome = nome;
             Salario = salario;
-            TotaldeBonificacao = 0;
         }
 
         public virtual void MostrarAtributos()
@@ -33,12 +26,5 @@ namespace HerancaFuncionario
         {
             return Salario * 10/ 100;
         }
-        public void TotalizadorBonificacao(){ 
-            this.TotaldeBonificacao += CalcularBonificacao();
-        }
-        public void MostrarBonificacao()
-    {
-        Console.WriteLine($"Total da Bonificação: {TotaldeBonificacao:c}"); 
-    }
     }
 }

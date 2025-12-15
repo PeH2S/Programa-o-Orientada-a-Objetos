@@ -13,6 +13,5 @@ namespace HerancaFuncionario
         {
             return Salario * 15 / 100;
         }
-        
     }
 }

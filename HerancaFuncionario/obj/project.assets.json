@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\HerancaFuncionario\\HerancaFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\POO NOITE\\HerancaFuncionario\\HerancaFuncionario.csproj",
       "projectName": "HerancaFuncionario",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\HerancaFuncionario\\HerancaFuncionario.csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\POO NOITE\\HerancaFuncionario\\HerancaFuncionario.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\HerancaFuncionario\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive - Fatec Centro Paula Souza\\Desktop\\ADS\\PROGRAMAÇÃO ORIENTADA A OBJETOS\\POO NOITE\\HerancaFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
