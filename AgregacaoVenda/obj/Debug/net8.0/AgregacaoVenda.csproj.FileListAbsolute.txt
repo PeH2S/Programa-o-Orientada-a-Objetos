@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.sourcelink.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\bin\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\refint\AgregacaoVenda.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\AgregacaoVenda.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\AgregacaoVenda\obj\Debug\net8.0\ref\AgregacaoVenda.dll
