@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\bin\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\refint\AbstratoFuncionario.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\AbstratoFuncionario.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstratoFuncionario\obj\Debug\net8.0\ref\AbstratoFuncionario.dll

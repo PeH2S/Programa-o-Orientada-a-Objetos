@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\bin\Debug\net8.0\AbstrataProduto.exe
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\bin\Debug\net8.0\AbstrataProduto.deps.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\bin\Debug\net8.0\AbstrataProduto.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\bin\Debug\net8.0\AbstrataProduto.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\bin\Debug\net8.0\AbstrataProduto.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\refint\AbstrataProduto.dll
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.pdb
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\AbstrataProduto.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Fatec Centro Paula Souza\Desktop\ADS\PROGRAMAÇÃO ORIENTADA A OBJETOS\POO NOITE\AbstrataProduto\obj\Debug\net8.0\ref\AbstrataProduto.dll
